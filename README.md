@@ -82,16 +82,9 @@ ProyectoFinal/
 ## 🔗 Enlaces útiles
 
 * Repositorio: [marzo245/ProyectoFinal](https://github.com/marzo245/ProyectoFinal)
-  ([GitHub][3], [GitHub][2])
-* Perfil GitHub: [marzo245](https://github.com/marzo245) ([GitHub][4])
+* Perfil GitHub: [marzo245](https://github.com/marzo245) 
 * LinkedIn: [diegochicuazuque](https://www.linkedin.com/in/diegochicuazuque)
 
----
 
-## 🔍 Próximos pasos (opcional)
-
-* Documentación técnica (`docs/`) o **Javadoc** para clases clave (`dominio`, `presentacion`).
-* Crear paquete `.jar` ejecutable para distribución.
-* Agregar sección “Cómo contribuir” o **LICENSE** si quieres liberarlo.
 
 
